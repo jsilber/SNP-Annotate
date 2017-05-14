@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/bloat-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/db4o-5.4-nqopt.jar"/>
+	<classpathentry kind="lib" path="lib/db4o-5.4-java1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

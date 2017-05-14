@@ -1,0 +1,5 @@
+.metadata/
+bin/*
+data/*
+db/*
+strand/*

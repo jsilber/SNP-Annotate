@@ -1,0 +1,17 @@
+annotate
+annotate.database
+annotate.database.access
+annotate.database.access.predicates
+annotate.database.access.queries
+annotate.exceptions
+annotate.genome
+annotate.genome.feature
+annotate.genome.feature.gene
+annotate.genome.interfaces
+annotate.genome.sequence
+annotate.input.database
+annotate.input.parsers.file
+annotate.input.parsers.line
+annotate.input.parsers.line.concrete
+snpfilter
+tools
